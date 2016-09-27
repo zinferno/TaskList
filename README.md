@@ -11,7 +11,7 @@ TODO: Add/Edit/Delete to-do task
 
 ## Configuration
 
-TODO: Mysql -> set user/password as 'root'
+TODO: Mysql -> set user/password as 'root' and Database 'scala_tasklist'
 
 ## Data Flow
 
